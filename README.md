@@ -63,8 +63,10 @@ I am an undergraduate student. I am very curious and enjoy learning new things.A
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/KanaMeisa/KanaMeisa/1d0407a7e47a26a3b11da06aa9dd4f67225019b8/.data/archlinux.svg" alt="Linux" height="75" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png" alt="Debian" height="75" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://paddlepaddle-org-cn.cdn.bcebos.com/paddle-international-site-web/static/media/paddlelogo.0b483fa7.png" alt="paddlepaddle" height="75" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="75" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="75" /></a>
