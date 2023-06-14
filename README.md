@@ -47,7 +47,7 @@ Unfalteringly, a seed aspires for its inevitable blossoming.
 
 
 ### Welcome to My Profile!  
-I am an undergraduate student. I am very curious and enjoy learning new things. And I am preparing to learn about the open source field and make contributions to the open source community.  
+I am an undergraduate student majoring in software engineering. I am very curious and enjoy learning new things. And I am preparing to learn about the open source field and make contributions to the open source community.  
 
 
 <br/>  
